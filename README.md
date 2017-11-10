@@ -1,4 +1,4 @@
-# MAGIC_EMT
+# MAGIC EMT data
 
 ATAC_seq_Day8_HMLE_CD44.tsv.zip -- ATAC-seq peaks
 
